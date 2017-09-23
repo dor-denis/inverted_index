@@ -8,12 +8,16 @@ Basically, this is a simple inverted index where you can index ASCII text files 
 
 ## Usage
 To index the file (several files can be indexed):
-`index: _full file name to text file_`
+```
+index: _full file name to text file_`
+```
 
 To search within the index (case sensitive):
-`search: _term_`
+```
+search: _term_
+```
 
-## Disclamer
+# Disclamer
 
 This is a part of Computer Science educational program I'm taking by myself. Everyone can join and
-learn computer science with [link](https://github.com/ossu/computer-science "OSS University")!
+learn computer science with [OSS University](https://github.com/ossu/computer-science "OSS University")!

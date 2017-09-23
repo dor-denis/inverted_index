@@ -1,0 +1,1 @@
+struct entry * find_in_index(const char *term, node *index);

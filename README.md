@@ -9,12 +9,12 @@ Basically, this is a simple inverted index where you can index ASCII text files 
 ## Usage
 To index the file (several files can be indexed):
 ```
-index: *full path to text file*
+index: full path to text file
 ```
 
 To search within the index (case sensitive):
 ```
-search: *term*
+search: term
 ```
 
 # Disclamer
